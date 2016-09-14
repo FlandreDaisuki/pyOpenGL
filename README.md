@@ -1,10 +1,10 @@
 #pyOpenGL
-測試作業系統為Linux Mint 18(based on Ubuntu 16.04)
+測試作業系統為Linux Mint 18 (based on Ubuntu 16.04)
 
-但理論上python3可以跑的平台都可以
+但理論上 python 3 可以跑的平台都可以
 
 ##前置
-- (**必要**) python3.*
+- (**必要**) python 3.*
 - (**非必要**) pyenv
 
 ##步驟
