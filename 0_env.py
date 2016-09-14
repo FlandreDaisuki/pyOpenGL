@@ -1,7 +1,6 @@
 import os
 import sys
-from OpenGL.GL import *
-from OpenGL.GLUT import *
+import OpenGL
 
 if __name__ == '__main__':
 	osu = os.uname()
